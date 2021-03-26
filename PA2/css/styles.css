@@ -1,0 +1,19 @@
+table{
+    width: 700px;
+    height: 550px;
+}
+#title {
+    font-size: 30px;
+    font-weight: bold;
+}
+.color{
+    background-color: rgb(236, 152, 152);
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+}
+th {
+    border: 1px solid black;
+    font-weight: lighter;
+}
